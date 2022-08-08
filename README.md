@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Front End Developer
-### 🔥 Stats 🔥
+### My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pengpa0012&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
